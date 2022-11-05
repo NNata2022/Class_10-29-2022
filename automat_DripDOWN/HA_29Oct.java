@@ -20,6 +20,7 @@ public class HA_29Oct {
 	//WAP to print the multiples of 5 in a decreasing order starting from 200 till 100
 		
 	
+	
 	//WAP to print the sum of first 100 natural numbers
 	
 	
